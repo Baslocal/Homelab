@@ -40,7 +40,7 @@ installation of your chosen components.
 
 ## A Note from the Creator
 
-Hey there! Thanks for checking out my Homelab -ActionPak- script. I've put this together 
+Thanks for checking out my Homelab -ActionPak- script. I've put this together 
 to help with setting up various tools in a homelab environment. Before you dive in, please 
 keep in mind:
 
