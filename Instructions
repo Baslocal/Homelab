@@ -9,7 +9,7 @@
 
 * Allocating the appropriate amount of resources to each service can significantly impact overall deployment and performance.
 
-## Platform Compatibility
+## Platform Compatibility 
 
 * This script has been tested on both Debian and Ubuntu distributions.
 
