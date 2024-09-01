@@ -1,13 +1,20 @@
-When designing a Homelab, consider the following:
+# Homelab Design Considerations
 
-*Isolation: Each service with a web console should ideally be running in its own VM or LXC container. If you want to be a bad boy and stack em up, ensure that the default ports (e.g., HTTPS 443) are not the same for all services.
-*Resource Allocation: Allocating the appropriate amount of resources to each service can significantly impact overall deployment and performance.
-*Platform Compatibility: This script has been tested on both Debian and Ubuntu distro.
+## Isolation
 
+* Each service with a web console should ideally be running in its own VM or LXC container.
+* If you stack multiple services in a single VM or container, ensure that the default ports (e.g., HTTPS 443) are not the same for all services.
 
+## Resource Allocation
 
+* Allocating the appropriate amount of resources to each service can significantly impact overall deployment and performance.
 
-Paste this into the terminal
+## Platform Compatibility
+
+* This script has been tested on both Debian and Ubuntu distributions.
+
+**Paste this into the terminal:**
+
 
 
 
